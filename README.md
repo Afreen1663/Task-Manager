@@ -4,7 +4,7 @@ A simple task manager application built using HTML, CSS, and JavaScript. This ap
 
 ## Live Demo
 
-Website Link: 
+Website Link: https://afreen1663.github.io/Task-Manager/
 
 <img width="517" alt="Image" src="https://github.com/user-attachments/assets/9a4fbb15-983e-4785-a8da-a80739188396" />
 
@@ -24,7 +24,7 @@ Website Link:
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/task-manager.git
+   git clone https://github.com/Afreen1663/Task-Manager.git
    ```
 2. Navigate to the project directory:
    ```sh
