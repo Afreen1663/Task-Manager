@@ -2,6 +2,12 @@
 
 A simple task manager application built using HTML, CSS, and JavaScript. This app allows users to add, edit, and delete tasks while saving their progress using local storage.
 
+## Live Demo
+
+Website Link: 
+
+<img width="517" alt="Image" src="https://github.com/user-attachments/assets/9a4fbb15-983e-4785-a8da-a80739188396" />
+
 ## Features
 - Add new tasks
 - Edit existing tasks
